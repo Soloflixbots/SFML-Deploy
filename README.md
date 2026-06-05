@@ -22,20 +22,6 @@
 
 ---
 
-### 2️⃣ ***METHOD 2: (Github Workflow Guide)***
-
-<details>
-  <summary><b>Expand All Steps to Deploy <sup><kbd>Click Here</kbd></sup></b></summary>
-
-**Step 1 :** Fork and Star the Repository
-
-  - Click the **Fork** button at the top-right corner of this repository.
-    > Star the repository to show your support.
-
-**Step 2 :** Navigate to Your Forked Repository
-
-- Access your forked version of the repository.
-
 **Step 3 :** Enable `GitHub Actions` for your repo
 
 - Go to the **Settings** tab of your forked repository.
